@@ -11,12 +11,12 @@
   },
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
-    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/axios": "^5.12.3",
     "dotenv": "^8.2.0",
     "normalize.css": "^8.0.1",
-    "nuxt-start": "^2.14.3"
+    "nuxt-start": "^2.14.11"
   },
   "devDependencies": {
-    "nuxt": "^2.14.3"
+    "nuxt": "^2.14.11"
   }
 }
